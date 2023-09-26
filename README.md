@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Web Developing**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web development in aptech learning center**
 
 - 📫 How to reach me **abdul.kabeer3253@gmail.com**
 
