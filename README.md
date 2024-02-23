@@ -1,4 +1,4 @@
-C:\Users\HAJI LAPTOP KARACHI\Desktop\Turquoise Simple Modern Linkedin Banner.png
+
 <h1 align="center">Hi 👋, I'm Abdul Kabeer</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
